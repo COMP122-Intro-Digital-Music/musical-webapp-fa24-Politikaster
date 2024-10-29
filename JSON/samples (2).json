@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Overdraft-Of-Rain",
+    "file": "samples/Overdraft of the Rain.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Repeat-Ominoid",
+    "file": "samples/Repeat ominoid.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Boneyard-Butcher",
+    "file": "samples/The_Boneyard_Butcher_Night_of_the_Damned_theme.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
